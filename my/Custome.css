@@ -1,0 +1,29 @@
+
+
+.header{
+    padding: 10px;
+    margin: 5px;
+}
+.header-h1 h4{
+    font-size:16px;
+}
+.teacher-help h4{
+    font-size: 18px;
+}
+.teacher-help .navigation-help p{
+    font-weight:500;
+    font-size: 15px;
+}
+.add-course-img{
+    margin: 5px;
+}
+.margin .base-li{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size: 18;
+    
+}
+.margin-auto{
+    width: 200px;
+    margin: auto;
+}
